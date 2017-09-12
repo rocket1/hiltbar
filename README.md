@@ -1,4 +1,4 @@
-# hiltbar
+# The Hilt
 This was the first website for the bar The Hilt, a bar on Alberta St. in Portland, Oregon.
 
 demo:
